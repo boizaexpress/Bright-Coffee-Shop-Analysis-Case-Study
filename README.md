@@ -4,7 +4,7 @@
 
 
 
-###🛠️ Tech Stack
+### 🛠️ Tech Stack
 
 > Planning: Miro (Data Flow & Architecture)
 
@@ -16,7 +16,7 @@
 
 
 
-##📂 Repository Structure
+### 📂 Repository Structure
 
 > 📁 documentation/: Contains the Miro Architecture diagram.
 
@@ -28,7 +28,7 @@
 
 
 
-##⚙️ Data Pipeline & Methodology
+### ⚙️ Data Pipeline & Methodology
 
 > Architecture: Designed a data flow from source (Excel) through ETL (Databricks) to storage.
 
@@ -42,7 +42,7 @@
 
 
 
-##📈 Key Business Questions Addressed
+### 📈 Key Business Questions Addressed
 
 > Which product categories generate the highest revenue?
 
@@ -52,7 +52,7 @@
 
 
 
-##🚀 Recommendations
+### 🚀 Recommendations
 
 >Targeted Marketing: Launch campaigns during identified slow time slots to boost traffic.
 
