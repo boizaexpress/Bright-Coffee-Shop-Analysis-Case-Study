@@ -1,4 +1,4 @@
-##📌 Project Overview
+📌 ##Project Overview
 
 > This project provides actionable business insights for the new CEO of Bright Coffee Shop. As a Junior Data Analyst, I have analyzed historical transactional data to identify revenue drivers, peak sales periods, and product performance trends to support strategic growth.
 
